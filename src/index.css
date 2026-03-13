@@ -1,0 +1,14 @@
+@import "tailwindcss";
+* {
+    font-family: "JetBrainsMono Nerd Font", monospace;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+}
