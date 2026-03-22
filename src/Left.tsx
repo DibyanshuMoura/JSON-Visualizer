@@ -20,6 +20,7 @@ const Left = ({option, setOption, textContent, setTextcontent, setParsedData}: L
       setParsedData(parsedText);
     } else {
       const parsedText = "adf";
+      setParsedData(parsedText);
     }
   };
   return (
